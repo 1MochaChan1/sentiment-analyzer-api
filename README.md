@@ -52,6 +52,12 @@ With the virtual environment activated, install the necessary packages.
 
 This will install the requirement packages and libraries.
 
+## Step 4: Install Troch
+
+   ```bash
+   pip install torch
+   ```
+   
 ---
 
 ## How to Use
