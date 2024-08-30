@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from mangum import Mangum
-from sentiment_analysis import BertSentimentAnalyzer, get_sentiment
+from sentiment_analysis import BertSentimentAnalyzer
 
 app = FastAPI()
 handler = Mangum(app)
