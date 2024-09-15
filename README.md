@@ -104,6 +104,10 @@ GET /c?content=This+is+awesome!
 }
 ```
 
+## Results
+![image](https://github.com/user-attachments/assets/461b5f3f-0c80-4c30-8247-4aadd4fda02b)
+
+
 ## Possible Errors
 
 - If you forget to include `link` or `content`, you’ll get an error saying the request is invalid.
